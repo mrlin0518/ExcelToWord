@@ -1,0 +1,185 @@
+2021-04-15 09:21:16.592  INFO 7976 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 7976 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:21:16.597  INFO 7976 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:21:16.945  INFO 7976 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.648 seconds (JVM running for 1.373)
+2021-04-15 09:38:31.813  INFO 8012 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 8012 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:38:31.815  INFO 8012 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:38:32.154  INFO 8012 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.622 seconds (JVM running for 1.32)
+2021-04-15 09:38:32.158  INFO 8012 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 09:38:32.158  INFO 8012 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/template/AD_JCL_FEXR_V1_1.xlsx
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 09:38:32.159  INFO 8012 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 09:39:05.991  INFO 18724 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 18724 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:39:05.993  INFO 18724 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:39:06.332  INFO 18724 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.629 seconds (JVM running for 1.267)
+2021-04-15 09:39:06.335  INFO 18724 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 09:39:06.336  INFO 18724 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/template/
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 09:39:06.337  INFO 18724 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 09:39:06.337  INFO 18724 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/template/ 有 9 個Excel檔案
+2021-04-15 09:39:06.337  INFO 18724 --- [main] com.example.demo.ExcelToWord             : 開始讀取 accounting_word_template.html
+2021-04-15 09:40:46.205  INFO 29332 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 29332 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:40:46.207  INFO 29332 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:40:46.544  INFO 29332 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.615 seconds (JVM running for 1.236)
+2021-04-15 09:40:46.548  INFO 29332 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 09:40:46.548  INFO 29332 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/template/
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 09:40:46.549  INFO 29332 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 09:40:46.549  INFO 29332 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/template/ 有 7 個Excel檔案
+2021-04-15 09:40:46.549  INFO 29332 --- [main] com.example.demo.ExcelToWord             : 開始讀取 accounting_word_template.html
+2021-04-15 09:42:05.711  INFO 11220 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 11220 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:42:05.713  INFO 11220 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:42:06.045  INFO 11220 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.611 seconds (JVM running for 1.24)
+2021-04-15 09:42:06.048  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 09:42:06.049  INFO 11220 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 09:42:06.050  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 09:42:06.050  INFO 11220 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 09:42:06.050  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 09:42:06.439  INFO 11220 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 09:42:06.439  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 09:42:07.562  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 09:42:07.563  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 09:42:07.563  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 09:42:07.563  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 09:42:07.859  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 09:42:07.860  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 09:42:07.930  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 09:42:07.930  INFO 11220 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 09:42:07.930  INFO 11220 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
+2021-04-15 09:55:34.740  INFO 25132 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 25132 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 09:55:34.743  INFO 25132 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 09:55:35.078  INFO 25132 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.634 seconds (JVM running for 1.259)
+2021-04-15 09:55:35.081  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 09:55:35.082  INFO 25132 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 09:55:35.083  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 09:55:35.083  INFO 25132 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 09:55:35.083  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 09:55:35.477  INFO 25132 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 09:55:35.478  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 09:55:36.623  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 09:55:36.623  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 09:55:36.624  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 09:55:36.624  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 09:55:36.967  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 09:55:36.968  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 09:55:37.046  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 09:55:37.047  INFO 25132 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 09:55:37.047  INFO 25132 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
+2021-04-15 10:03:00.562  INFO 17260 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 17260 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:03:00.567  INFO 17260 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:03:01.031  INFO 17260 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.855 seconds (JVM running for 1.93)
+2021-04-15 10:03:01.048  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:03:01.048  INFO 17260 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:03:01.049  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:03:01.050  INFO 17260 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:03:05.433  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:03:05.896  INFO 17260 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:03:05.896  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:03:07.051  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 10:03:07.052  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 10:03:07.052  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 10:03:07.052  INFO 17260 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 10:06:41.663  INFO 29640 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 29640 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:06:41.667  INFO 29640 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:06:42.019  INFO 29640 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.63 seconds (JVM running for 1.261)
+2021-04-15 10:06:42.023  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:06:42.023  INFO 29640 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:06:42.024  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:06:42.024  INFO 29640 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:06:42.025  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:06:42.411  INFO 29640 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:06:42.411  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:06:43.539  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 10:06:43.539  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 10:06:43.540  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 10:06:43.540  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 10:06:43.850  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 10:06:43.851  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 10:06:43.924  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 10:06:43.925  INFO 29640 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 10:06:43.925  INFO 29640 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
+2021-04-15 10:08:22.158  INFO 14540 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 14540 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:08:22.160  INFO 14540 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:08:22.494  INFO 14540 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.618 seconds (JVM running for 1.255)
+2021-04-15 10:08:22.498  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:08:22.498  INFO 14540 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:08:22.499  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:08:22.499  INFO 14540 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:08:22.499  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:08:22.890  INFO 14540 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:08:22.890  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:08:24.039  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 10:08:24.039  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 10:08:24.039  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 10:08:24.040  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 10:08:24.358  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 10:08:24.359  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 10:08:24.431  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 10:08:24.431  INFO 14540 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 10:08:24.431  INFO 14540 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
+2021-04-15 10:10:52.463  INFO 26052 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 26052 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:10:52.469  INFO 26052 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:10:52.942  INFO 26052 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.872 seconds (JVM running for 1.78)
+2021-04-15 10:10:52.957  INFO 26052 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:10:52.958  INFO 26052 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:10:52.959  INFO 26052 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:10:52.960  INFO 26052 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:10:52.960  INFO 26052 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:10:53.417  INFO 26052 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:10:53.417  INFO 26052 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:15:01.390  INFO 29168 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 29168 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:15:01.392  INFO 29168 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:15:01.741  INFO 29168 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.64 seconds (JVM running for 1.271)
+2021-04-15 10:15:01.744  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:15:01.745  INFO 29168 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:15:01.746  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:15:01.746  INFO 29168 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:15:01.746  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:15:02.134  INFO 29168 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:15:02.134  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:15:03.268  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 10:15:03.268  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 10:15:03.269  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 10:15:03.269  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 10:15:03.585  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 10:15:03.586  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 10:15:03.655  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 10:15:03.655  INFO 29168 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 10:15:03.655  INFO 29168 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
+2021-04-15 10:15:38.484  INFO 11380 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 1.8.0_192 on CHSIF109078 with PID 11380 (C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord\target\classes started by si1153 in C:\Users\si1153\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\ExcelToWord)
+2021-04-15 10:15:38.486  INFO 11380 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-15 10:15:38.816  INFO 11380 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.615 seconds (JVM running for 1.238)
+2021-04-15 10:15:38.820  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-15 10:15:38.820  INFO 11380 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/SI1153/Desktop/excel2
+ Word範例檔位置:D:/SI1153/Desktop/template/AD_NAME_JCL_NAME.docx
+ 輸出資料夾位置:D:/SI1153/Desktop/template/result
+2021-04-15 10:15:38.821  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [測試案例_L2, 系統別, AD, AD_Description, JCL, JCL_Description, Step_Name, Program_Name, DD_Name, DSN, DISP_Initial, OPEN_Mode]
+2021-04-15 10:15:38.822  INFO 11380 --- [main] com.example.demo.ExcelToWord             : excelDir:D:/SI1153/Desktop/excel2 有 1 個Excel檔案
+2021-04-15 10:15:38.822  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 開始讀取 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:15:39.209  INFO 11380 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 讀取完成
+2021-04-15 10:15:39.209  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 開始解析 AD_JCL_FEXR_V1_1.xlsx
+2021-04-15 10:15:40.331  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 解析 AD_JCL_FEXR_V1_1.xlsx 完成
+2021-04-15 10:15:40.331  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 預計輸出檔名 工作表1
+2021-04-15 10:15:40.331  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 預計產出 2 個檔案
+2021-04-15 10:15:40.331  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JBPRISK4
+2021-04-15 10:15:40.652  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JBPRISK4
+2021-04-15 10:15:40.653  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 開始輸出:JSB58E
+2021-04-15 10:15:40.726  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 已輸出 JCL Name: JSB58E
+2021-04-15 10:15:40.726  INFO 11380 --- [main] com.example.demo.ExcelToWord             : 實際產出 2 個檔案
+2021-04-15 10:15:40.726  INFO 11380 --- [main] com.example.demo.ExcelToWord             : AD_JCL_FEXR_V1_1.xlsx 輸出完成
